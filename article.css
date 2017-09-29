@@ -1,0 +1,31 @@
+
+body{
+ border: 20px solid grey; 
+ max-width: 700px;
+ width: 80%;
+ margin: 20px auto;
+ padding: 20px;
+}
+h4{
+	
+	text-transform: uppercase;
+	font-family: 'Concert One', cursive;
+	color: #87CEEB;
+}
+
+h1{
+	font-family: 'Francois One', sans-serif;
+	text-transform: uppercase;
+	
+}
+
+p{
+	font-family: 'Indie Flower', cursive;
+	
+	border-bottom: 2px solid grey;
+	padding-bottom: 20px;
+}
+span{
+	border-left: 5px solid grey;
+
+}

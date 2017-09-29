@@ -1,0 +1,10 @@
+p {
+	border: 2px solid blue;
+	width: 50%;
+	padding: 10px;
+/*	we can also do padding only on the selected sides using padding-left/padding-right etc
+*/
+	/*margin: 100px;*/
+	margin: 20px 30px 100px 50px;
+	/*margin: top right bottom left*/
+}

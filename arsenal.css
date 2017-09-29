@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%; /*(10 / total no of margins)*/
+}
+p{
+	font-family: Ariel;
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 1.66%;
+	border-bottom: 2px solid red;
+	width: 90%;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+}

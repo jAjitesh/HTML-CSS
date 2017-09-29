@@ -1,0 +1,28 @@
+html, body{
+	height: 100%;
+	
+}
+.jumbotron{
+	text-align: center;
+	background: black; 
+}
+
+.sect{
+	height: 100%;
+	width: 100%;
+	background-image: url("https://media.timeout.com/images/102945700/image.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.bisect{
+	/*background-color: black;*/
+	height: 100%;
+}
+.small{
+	height: 50%;
+}
+.float{
+	float : right; 
+	width: 100%;
+}

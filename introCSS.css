@@ -1,0 +1,18 @@
+
+		h1 {
+			color: green;
+			/*border-color: white;
+			border-width: 5px;
+			border-style: solid;*/
+			border: 2px solid white;
+		}
+		li{
+			color: purple;
+		}
+	h3{
+		background: rgb(200,150,150);
+	}
+	body{
+		background: black;
+		/*a url can be added as a background*/
+	}
